@@ -8,6 +8,7 @@ Console.WriteLine("-------------Bienvenido a Calculadora-------------");
 
 string continuar = "si";
 do{
+    Console.WriteLine("")
     Console.WriteLine("Ingrese el primer número: ");
     string? input1 = Console.ReadLine();
     if (!double.TryParse(input1, out double n1))
