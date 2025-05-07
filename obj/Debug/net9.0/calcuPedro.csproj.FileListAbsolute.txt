@@ -1,0 +1,14 @@
+C:\calcuPedro\bin\Debug\net9.0\calcuPedro.exe
+C:\calcuPedro\bin\Debug\net9.0\calcuPedro.deps.json
+C:\calcuPedro\bin\Debug\net9.0\calcuPedro.runtimeconfig.json
+C:\calcuPedro\bin\Debug\net9.0\calcuPedro.dll
+C:\calcuPedro\bin\Debug\net9.0\calcuPedro.pdb
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.GeneratedMSBuildEditorConfig.editorconfig
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.AssemblyInfoInputs.cache
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.AssemblyInfo.cs
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.csproj.CoreCompileInputs.cache
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.dll
+C:\calcuPedro\obj\Debug\net9.0\refint\calcuPedro.dll
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.pdb
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.genruntimeconfig.cache
+C:\calcuPedro\obj\Debug\net9.0\ref\calcuPedro.dll
