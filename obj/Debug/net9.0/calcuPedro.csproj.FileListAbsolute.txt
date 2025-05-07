@@ -12,4 +12,22 @@ C:\calcuPedro\obj\Debug\net9.0\refint\calcuPedro.dll
 C:\calcuPedro\obj\Debug\net9.0\calcuPedro.pdb
 C:\calcuPedro\obj\Debug\net9.0\calcuPedro.genruntimeconfig.cache
 C:\calcuPedro\obj\Debug\net9.0\ref\calcuPedro.dll
+<<<<<<< HEAD
 C:\calcuPedro\obj\Debug\net9.0\calcuPedro.sourcelink.json
+=======
+D:\repotal\CalcuConsola\bin\Debug\net9.0\calcuPedro.exe
+D:\repotal\CalcuConsola\bin\Debug\net9.0\calcuPedro.deps.json
+D:\repotal\CalcuConsola\bin\Debug\net9.0\calcuPedro.runtimeconfig.json
+D:\repotal\CalcuConsola\bin\Debug\net9.0\calcuPedro.dll
+D:\repotal\CalcuConsola\bin\Debug\net9.0\calcuPedro.pdb
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.GeneratedMSBuildEditorConfig.editorconfig
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.AssemblyInfoInputs.cache
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.AssemblyInfo.cs
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.csproj.CoreCompileInputs.cache
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.sourcelink.json
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.dll
+D:\repotal\CalcuConsola\obj\Debug\net9.0\refint\calcuPedro.dll
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.pdb
+D:\repotal\CalcuConsola\obj\Debug\net9.0\calcuPedro.genruntimeconfig.cache
+D:\repotal\CalcuConsola\obj\Debug\net9.0\ref\calcuPedro.dll
+>>>>>>> 0c050c3ef78c1a7a05b3f78289ed1a57488e66e8
