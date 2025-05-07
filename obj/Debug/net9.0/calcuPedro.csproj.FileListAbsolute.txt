@@ -12,3 +12,4 @@ C:\calcuPedro\obj\Debug\net9.0\refint\calcuPedro.dll
 C:\calcuPedro\obj\Debug\net9.0\calcuPedro.pdb
 C:\calcuPedro\obj\Debug\net9.0\calcuPedro.genruntimeconfig.cache
 C:\calcuPedro\obj\Debug\net9.0\ref\calcuPedro.dll
+C:\calcuPedro\obj\Debug\net9.0\calcuPedro.sourcelink.json
