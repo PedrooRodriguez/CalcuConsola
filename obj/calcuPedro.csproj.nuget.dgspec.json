@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\calcuPedro\\calcuPedro.csproj": {}
+    "D:\\repotal\\CalcuConsola\\calcuPedro.csproj": {}
   },
   "projects": {
-    "C:\\calcuPedro\\calcuPedro.csproj": {
+    "D:\\repotal\\CalcuConsola\\calcuPedro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\calcuPedro\\calcuPedro.csproj",
+        "projectUniqueName": "D:\\repotal\\CalcuConsola\\calcuPedro.csproj",
         "projectName": "calcuPedro",
-        "projectPath": "C:\\calcuPedro\\calcuPedro.csproj",
-        "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "C:\\calcuPedro\\obj\\",
+        "projectPath": "D:\\repotal\\CalcuConsola\\calcuPedro.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "D:\\repotal\\CalcuConsola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
